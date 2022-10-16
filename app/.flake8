@@ -9,5 +9,7 @@ exclude =
 ignore=
     W293,
     W292,
+    E302,
+    F402,
 
 max-line-length = 120
