@@ -5,3 +5,9 @@ exclude =
     __pycache__,
     manage.py,
     settings.py
+
+ignore=
+    W293,
+    W292,
+
+max-line-length = 120
